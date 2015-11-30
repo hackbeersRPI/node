@@ -4,6 +4,7 @@
   "description": "",
   "dependencies": {
     "node-red-contrib-ds18b20-sensor": "0.0.14",
+    "node-red-contrib-eddystone": "0.0.1",
     "node-red-node-blink1": "^0.0.11",
     "node-red-node-physical-web": "0.0.2",
     "node-red-node-sensortag": "0.0.8"
