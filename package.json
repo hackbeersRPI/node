@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "node-red-node-blink1": "^0.0.11"
+    "node-red-node-blink1": "^0.0.11",
+    "node-red-node-sensortag": "0.0.8"
   },
   "devDependencies": {},
   "scripts": {
