@@ -13,7 +13,7 @@ Para incluir cualquier ejemplo en vuestro área de trabajo, copiad el código e 
 
 ## Hola mundo
 El ejemplo básico de hola mundo
-![Hello World](https://github.com/hackbeersRPI/node/static/holamundo.png)
+![Hello World](https://github.com/hackbeersRPI/node/blob/master/static/holamundo.png)
 ```
 [{"id":"54967739.ab6988","type":"inject","z":"60da96e2.9f2568","name":"Hello World","topic":"message","payload":"Hello World!","payloadType":"string","repeat":"","crontab":"","once":true,"x":206,"y":100,"wires":[["77194b7e.88e6b4"]]},{"id":"77194b7e.88e6b4","type":"debug","z":"60da96e2.9f2568","name":"","active":true,"console":"true","complete":"payload","x":496,"y":100,"wires":[]}]
 ```
